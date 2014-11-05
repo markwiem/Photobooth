@@ -1,0 +1,4 @@
+CUPS Printing Resources:
+http://www.cups.org/documentation.php/options.html
+http://lavagoat.wordpress.com/2011/03/23/change-default-printer-settings-on-mac-os-x/
+http://www.maclife.com/article/columns/terminal_101_printing_command_line
